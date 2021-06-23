@@ -46,7 +46,7 @@
         <com.typesafe.akka.version>2.3.14</com.typesafe.akka.version>
         <slf4j.version>1.6.1</slf4j.version>
         <log4j.version>1.2.15</log4j.version>
-        <jetty.version>8.1.14.v20131031</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
         <!--<jetty.version>9.0.0.v20130308</jetty.version>-->
         <kryo.version>2.21</kryo.version>
         <io.spray.version>1.3.3</io.spray.version>
